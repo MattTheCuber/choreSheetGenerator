@@ -1,0 +1,35 @@
+MenuBar {
+	-fx-font-size: 30.0;
+	-fx-background-color: #33425b;
+}
+
+#paneMain {
+	-fx-background-color:#d8e9f0;
+}
+
+#spane {
+	-fx-background-color:#33425b;
+}
+
+#people {
+	-fx-font-size:25.0px;
+	-fx-background-color:#33425b;
+}
+
+#heading {
+	-fx-font-size:50.0px;
+	-fx-background-color:#33425b;
+}
+
+#plusB {
+	-fx-background-color:#33425b;
+}
+
+#plusT {
+	-fx-font-size:20.0px;
+}
+
+#optionsB {
+	-fx-font-size:30.0px;
+	-fx-background-color:#33425b;
+}

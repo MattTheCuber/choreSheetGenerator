@@ -1,0 +1,11 @@
+TableView {
+	-fx-background-color:#33425b;
+}
+
+#heading {
+	-fx-font-size:50.0px;
+}
+
+MenuBar {
+	-fx-font-size:30.0;
+}

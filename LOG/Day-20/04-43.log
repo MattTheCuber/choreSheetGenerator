@@ -1,0 +1,6 @@
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Warning!: You should close the program by clicking close; Line: 149; Class: Controller
+
+Closing LOG

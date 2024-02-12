@@ -1,0 +1,16 @@
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+Info: StartUpView shown; Line: 158; Class: StartUpView
+Event: Action performed; Line: 166; Class: StartUpView
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getLevel; Line: 426; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: no such column: 'Julia'; Line: 437; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getProgramData2; Line: 476; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: no such column: 'Week reset'; Line: 218; Class: DatabaseHandler

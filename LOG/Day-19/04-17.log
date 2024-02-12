@@ -1,0 +1,3 @@
+
+*Error*: Unable to connect to choreData.sqlite; Line: 901; Class: DatabaseHandler
+*Error*: java.sql.SQLException: [SQLITE_CANTOPEN]  Unable to open the database file (out of memory); Line: 901; Class: DatabaseHandler

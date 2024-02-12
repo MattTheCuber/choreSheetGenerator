@@ -1,0 +1,14 @@
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+Info: StartUpView shown; Line: 158; Class: StartUpView
+Event: Action performed; Line: 166; Class: StartUpView
+Info: StartUpView shown; Line: 61; Class: About
+Event: Action performed; Line: 69; Class: About
+Event: Action performed; Line: 166; Class: StartUpView
+Event: Action performed; Line: 166; Class: StartUpView
+
+Warning!: You should close the program by clicking close; Line: 152; Class: Controller
+
+Closing LOG

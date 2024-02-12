@@ -1,0 +1,115 @@
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+Info: StartUpView shown; Line: 203; Class: StartUpView
+Event: Action performed; Line: 211; Class: StartUpView
+Event: Action performed; Line: 211; Class: StartUpView
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getArray; Line: 244; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 62; Class: ChoreGeneratorController; Method Name: connect
+Info: Connecting to choreData.sqlite: from writeJulias; Line: 108; Class: ChoreGeneratorController
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from insertRow; Line: 283; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from insertRow; Line: 283; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from insertRow; Line: 283; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler

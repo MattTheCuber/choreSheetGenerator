@@ -1,0 +1,37 @@
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+Info: StartUpView shown; Line: 204; Class: StartUpView
+Event: Action performed; Line: 212; Class: StartUpView
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from getProgramData2; Line: 476; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: no such column: 'Week reset'; Line: 218; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from loadChoresData; Line: 72; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+
+Info: Sending data to model; Line: 103; Class: DatabaseHandler
+
+Info: Connected to org.sqlite.JDBC; Line: 42; Class: DatabaseHandler; Method Name: connect
+Info: Connecting to choreData.sqlite: from loadCompleteData; Line: 124; Class: DatabaseHandler
+
+*Error*: java.sql.SQLException: [SQLITE_ERROR] SQL error or missing database (Connection is closed); Line: 109; Class: DatabaseHandler
+Info: Sending data to controller; Line: 101; Class: Model
+Info: Sending data to View; Line: 123; Class: Controller
+Info: MainView shown; Line: 222; Class: MainView
+Event: Action performed; Line: 278; Class: MainView
+
+Warning!: You should close the program by clicking close; Line: 149; Class: Controller
+
+Closing LOG
